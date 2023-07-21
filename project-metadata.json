@@ -1,0 +1,8 @@
+{
+    "APP": "product-service",
+    "SERVICE": "product",
+    "EXPORT_TABLE_NAME": "ProductTableName",
+    "EXPORT_TABLE_ARN": "ProductTableArn",
+    "MODEL": "product",
+    "MODEL_PLURAL": "product"
+}
